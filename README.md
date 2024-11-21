@@ -20,6 +20,32 @@ Este projeto contém a resolução de uma série de exercícios focados em progr
 
 8. **Aprimoramento do Return**: Método aprimorado para verificar se um número é par, com código mais conciso e legível.
 
+## Segunda Lista  
+
+### 1. Conversor de Notas para Conceito Alfabético  
+**Objetivo:** Criar uma classe que transforma notas numéricas (de 0 a 10) em conceitos alfabéticos seguindo uma escala predefinida (A, B, C, D, E).  
+
+### 2. Validação de Triângulo  
+**Objetivo:** Implementar um método que verifica se três valores reais podem formar um triângulo, com base na regra de que a soma de dois lados menores deve ser maior que o lado maior.  
+
+### 3. Peso em Outros Planetas  
+**Objetivo:** Desenvolver um método que calcula o peso de uma pessoa em diferentes planetas do Sistema Solar. O peso é calculado multiplicando o peso na Terra por um fator específico de cada planeta.  
+
+### 4. Calculadora de Velocidade de Digitação  
+**Objetivo:** Criar uma classe para calcular a quantidade de caracteres digitados por minuto com base no tempo e na quantidade de caracteres fornecidos.  
+- A classe possui dois construtores: um padrão (valores zero) e outro que permite inicializar os atributos.  
+
+### 5. Conversor de Números para Algarismos Romanos (1 a 10)  
+**Objetivo:** Implementar um método que converte números inteiros de 1 a 10 em algarismos romanos.  
+- Caso o número esteja fora do intervalo, retorna a mensagem: `"Fora do intervalo"`.  
+
+### 6. Conversor de Números para Algarismos Romanos (1 a 100)  
+**Objetivo:** Estender a solução anterior para atender a uma escala maior (1 a 100), otimizando a implementação sem abordar os casos individualmente.  
+
+### 7. Ordenador de Variáveis  
+**Objetivo:** Criar um trecho de código que ordena três variáveis inteiras (`a`, `b`, `c`) de modo que sempre `a ≤ b ≤ c`.  
+- A implementação utiliza apenas três estruturas condicionais simples (`if`). 
+
 ## Objetivo
 
 Este projeto foi desenvolvido para aprimorar a aplicação de conceitos de programação orientada a objetos em TypeScript, com foco em encapsulamento, abstração e simplificação de código, por meio de exercícios práticos. É uma referência útil para desenvolvedores que desejam entender a lógica condicional em diferentes cenários.
