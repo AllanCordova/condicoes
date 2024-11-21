@@ -8,11 +8,11 @@ export default class Calculadora {
     }
 
     public forMinuto(): number {
-        if (this.time == 0 && this.caracter == 0) {
+        if (this.time == 0) {
             return 0;
         } 
-        this.time /= 60;
-        this.caracter /= this.time;
-        return this.caracter;
+        
+        const timeMinutos: number = this.time / 60;
+        return this.caracter/ timeMinutos;
     }
 }
